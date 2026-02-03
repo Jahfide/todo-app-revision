@@ -1,5 +1,5 @@
 // URL de l'API
-const API_URL = 'http://localhost:3000/api/todos';
+const API_URL = 'https://todo-app-revision-1mt79wbgl-jahfidea-5222s-projects.vercel.app/api/todos';
 
 // Charger les todos au démarrage
 document.addEventListener('DOMContentLoaded', () => {
